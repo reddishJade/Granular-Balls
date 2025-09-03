@@ -1,0 +1,9 @@
+pandas
+requests
+tqdm
+openpyxl
+numpy
+faiss-cpu
+sentence-transformers
+scikit-multilearn
+

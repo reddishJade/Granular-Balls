@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.code-workspace
+
+# Data & artifacts
+/data/
+preprocessed_data.npz
+production_granular_balls.npz
+emotion.xlsx
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Cache
+*.cache/
+.cache/
+
+# Build
+build/
+dist/
+*.egg-info/
+
