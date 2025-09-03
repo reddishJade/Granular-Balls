@@ -1,9 +1,25 @@
-pandas
-requests
-tqdm
-openpyxl
+# 核心数据处理和科学计算
 numpy
-faiss-cpu
-sentence-transformers
+pandas
+scikit-learn
+
+# 机器学习和多标签分类
 scikit-multilearn
 
+# 向量相似度搜索
+faiss-gpu
+
+# 自然语言处理
+sentence-transformers
+
+# 数据持久化
+joblib
+
+# 进度条
+tqdm
+
+# HTTP请求
+requests
+
+# Excel文件处理
+openpyxl
